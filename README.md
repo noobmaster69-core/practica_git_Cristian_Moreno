@@ -20,7 +20,6 @@ local utilizando Git, vincularlo con un repositorio remoto en GitHub
 y comprobar la sincronización de información en ambos sentidos:
 del repositorio local hacia GitHub y de GitHub hacia el repositorio local.
 
-## Descripción del procedimiento
 
 ## Descripción del procedimiento realizado
 
