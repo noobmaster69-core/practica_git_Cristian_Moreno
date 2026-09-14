@@ -1,2 +1,3 @@
 Estoy haciendo la practica de Git-GitHub que encargo el profe Charly.
 Este archivo fue modificado desde GitHub
+Este archivo fue modificado desde el repositorio local.
